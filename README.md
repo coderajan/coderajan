@@ -1,7 +1,7 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5603AQHPS2q4HUkdbA/profile-displayphoto-shrink_800_800/0/1648138895726?e=2147483647&v=beta&t=dqMUmuZHOYA9IS8rU2sFsInqy4gBRdjgnxsMoik6frA)
+
 <h1 align="center">Hi 👋, I'm Rajan Shukla</h1>
 <h3 align="center">A passionate Frontend and Backend developer from India</h3>
-<img align="right" alt="coding src="https://media.licdn.com/dms/image/C5603AQHPS2q4HUkdbA/profile-displayphoto-shrink_800_800/0/1648138895726?e=2147483647&v=beta&t=dqMUmuZHOYA9IS8rU2sFsInqy4gBRdjgnxsMoik6frA">
+<img align="right" alt="coding" src="https://media.licdn.com/dms/image/C5603AQHPS2q4HUkdbA/profile-displayphoto-shrink_800_800/0/1648138895726?e=2147483647&v=beta&t=dqMUmuZHOYA9IS8rU2sFsInqy4gBRdjgnxsMoik6frA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanshukla04&label=Profile%20views&color=0e75b6&style=flat" alt="rajanshukla04" /> </p>
 
